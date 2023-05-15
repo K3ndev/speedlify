@@ -9,9 +9,10 @@ module.exports = {
     "https://astro-k3ndev.vercel.app/",
     "https://astro-k3ndev.vercel.app/guestBook/",
     "https://react-todo-zustand.vercel.app/",
-    "https://react-todo-redux-k3ndev.vercel.app/",
     "https://solid-todo-signal.vercel.app/",
     "https://next-pokemon-k3ndev.vercel.app/",
     "https://next-pokemon-k3ndev.vercel.app/pokemon/1",
+    "https://vue-todo-pinia.vercel.app/",
+    "https://react-todo-reduxx.vercel.app/",
   ],
 };
