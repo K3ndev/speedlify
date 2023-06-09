@@ -8,6 +8,7 @@ module.exports = {
   urls: [
     "https://astro-k3ndev.vercel.app/",
     "https://astro-k3ndev.vercel.app/guestBook/",
+    "https://astro-k3ndev.vercel.app/gists/",
     "https://react-todo-zustand.vercel.app/",
     "https://solid-todo-signal.vercel.app/",
     "https://next-pokemon-k3ndev.vercel.app/",
